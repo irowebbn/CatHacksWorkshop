@@ -34,4 +34,4 @@ jobs:
           # Working directory
           working-directory: .
           # Generate latex documentation
-          enable-latex: # optional
+          enable-latex: true
